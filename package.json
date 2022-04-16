@@ -1,4 +1,4 @@
-{ 
+{
   "main": "dist/index.js",
   "private": false,
   "files": [
@@ -10,7 +10,7 @@
     "url": "https://github.com/OwlBot92/fathom-story-comp"
   },
   "name": "fathom-story-comp",
-  "version": "0.1.0",
+  "version": "0.1.9",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
@@ -19,8 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-native-web": "^0.17.7",
     "react-scripts": "5.0.0"
   },

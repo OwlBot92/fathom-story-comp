@@ -1,6 +1,6 @@
 import React from "react";
 import propTypes from "prop-types";
-import { View, Text, Image } from "react-native";
+import { View, Text, Image } from "react-native-web";
 
 import beerCardStyle from "./BeerCardStyle";
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import BeerCard from './BeerCard';
+import BeerCard from './BeerCard.web';
 
 
 export default {
@@ -10,7 +10,7 @@ export default {
   },
 };
 
-const Template = (args) => <BeerCard {...args}/>;
+const Template = (args) => <BeerCard {...args} />;
 export const Default = Template.bind({});
 Default.args = {
   name: 'Beer Name',
